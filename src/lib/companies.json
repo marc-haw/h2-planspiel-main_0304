@@ -1,0 +1,88 @@
+[
+    {
+      "id": 1,
+      "nick": "metal",
+      "name": "Metallwerke Hochwald AG",
+      "img": "factory.png",
+      "type": "Aktiengesellschaft (AG)",
+      "description": "Großes Stahlwerk mit hohem Energieverbrauch.",
+      "pro": "Könnte Klimaneutralen, grünen Stahl produzieren. Bedeutend für die Industriepolitik und den Klimaschutz",
+      "contra": "Kann alternativ CO2-Zertifikate kaufen und fossile Energien verwenden.",
+      "h2": 20,
+      "pay": 7,
+      "support": 3,
+      "h2Saving": "Enorm"
+    },
+    {
+      "id": 4,
+      "nick": "maritim",
+      "name": "Maritim Logistik",
+      "img": "maritim.png",
+      "type": "Privatunternehmen (GmbH)",
+      "description": "Internationaler Lieferdienst mit zentraler Bedeutung für die regionale Logistik. Bietet Transport per Flugzeug und Schiff an.",
+      "pro": "Flugzeuge und Schiffe erzeugen aktuell viel CO2. Möchte mit einer eigenen, kleinen Raffinerie mithilfe von Wasserstoff klimaschonenden Treibstoff herstellen (sogenannte E-Fuels). Das Unternehmen will sich damit als Vorreiter im Klimaschutz vermarkten.",
+      "contra": "Großes Privatunternehmen, das hohe Gewinne erzielt und in alternative Antriebe investieren könnte. Erhofft sich durch Umstellung vor allem Marketingeffekt.",
+      "h2": 15,
+      "pay": 9.50,
+      "support": 0.50,
+      "h2Saving": "Hoch"
+    },
+    {
+      "id": 2,
+      "nick": "hanse",
+      "name": "Hanse-Mobilität",
+      "img": "bus.png",
+      "type": "Teil-Städtischer Betrieb",
+      "description": "Betreiber des öffentlichen Nahverkehrs in Hamburg.",
+      "pro": "Möchte auf Wasserstoffbusse umstellen. Dies Würde CO2 vermeiden und umgeht Problematik des Ladens bei Elektrobussen.",
+      "contra": "Könnte auf elektrische Busse ausweichen oder weiterhin mit Diesel fahren.",
+      "h2": 7,
+      "pay": 1,
+      "support": 0,
+      "h2Saving": "Mittel"
+    },
+    {
+      "id": 5,
+      "nick": "bio",
+      "name": "Biotech Solutions",
+      "img": "biotech.png",
+      "type": "Forschungsinstitut",
+      "description": "Erforscht neuartige Technologien im Bereich Gesundheit, Ernährung und Energieversorgung. Gehört zur Universität Hamburg.",
+      "pro": "Innovativer Ansatz, der langfristig Fortschritt bringen könnte. Benötigt Wasserstoff für gewisse Prozesse.",
+      "contra": "Relativ niedriger aktueller Verbrauch und Ergebnisse sind in naher Zukunft kaum relevant. Es wird auch an alternativen Technologien ohne Wasserstoff geforscht.",
+      "h2": 4,
+      "pay": 5,
+      "support": 5,
+      "h2Saving": "Keine"
+        },
+    {
+      "id": 3,
+      "nick": "hospital",
+      "name": "Städtisches Krankenhaus",
+      "img": "hospital.png",
+      "type": "Städtischer Betrieb",
+      "description": "Großes Krankenhaus im Stadtzentrum.",
+      "pro": "Das Krankenhaus will mit Wasserstoff heizen, um CO2 einzusparen.",
+      "contra": "Könnte weiterhin mit Gas heizen oder eine Wärmepumpe einbauen.",
+      "h2": 3,
+      "pay": 4,
+      "support": 6,
+      "h2Saving": "Gering"
+    },
+ 
+    {
+      "id": 6,
+      "nick": "bakery",
+      "name": "Bäckerei Mehrkorn",
+      "img": "bakery.png",
+      "type": "Familienunternehmen",
+      "description": "Kleine Bäckerei, setzt auf nachhaltige Produktion und beliefert die Region mit Brot aus CO2-neutraler Herstellung.",
+      "pro": "Hohe Gewinnwohlorientierung; symbolisch wichtig für die regionale Nachhaltigkeitsstrategie.",
+      "contra": "Geringe Menge benötigt; könnte fossile Energien für eine Übergangszeit nutzen.",
+      "h2": 1,
+      "pay": 2,
+      "support": 8,
+      "h2Saving": "Gering"
+    }
+  ]
+  
